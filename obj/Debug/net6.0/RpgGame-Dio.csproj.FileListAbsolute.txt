@@ -1,0 +1,15 @@
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\RpgGame-Dio.exe
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\RpgGame-Dio.deps.json
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\RpgGame-Dio.runtimeconfig.json
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\RpgGame-Dio.dll
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\ref\RpgGame-Dio.dll
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\bin\Debug\net6.0\RpgGame-Dio.pdb
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.csproj.AssemblyReference.cache
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.AssemblyInfoInputs.cache
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.AssemblyInfo.cs
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.csproj.CoreCompileInputs.cache
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.dll
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\ref\RpgGame-Dio.dll
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.pdb
+D:\Projetinhos\RPG game dotnet\RpgGame-Dio\obj\Debug\net6.0\RpgGame-Dio.genruntimeconfig.cache
